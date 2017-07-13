@@ -1,6 +1,6 @@
 # Chips Compo Bug And Feature Requests
 
-This is where we track bug and feature requests for Chips Compo!
+This is where we track bug and feature requests for [Chips Compo!](www.chipscompo.com)
 
 If you've found a bad bug (exposing anonymous usernames, deleting other people's accounts, seeing results early, stuff like that), please PM me on Discord and do not post it here.
 
