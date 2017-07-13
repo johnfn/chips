@@ -11,6 +11,9 @@ OTHERWISE:
 1. Head on over to our [issues page](https://github.com/johnfn/chips/issues).
 2. Check to see if someone has already posted what you want.
 3. If they have, THUMBS UP that request. 
+
+![how to do that](chips/Screen Shot 2017-07-13 at 2.48.07 PM.png)
+
 4. If they haven't, add a new issue. 
 
 Thank you for making Chips Compo great again! :D
