@@ -1,4 +1,4 @@
-# Chips Compo Bug And Feature Requests
+# Chips Compo Bug & Feature Requests
 
 This is where we track bug and feature requests for [Chips Compo!](www.chipscompo.com)
 
