@@ -12,7 +12,7 @@ OTHERWISE:
 2. Check to see if someone has already posted what you want.
 3. If they have, THUMBS UP that request. 
 
-![how to do that](chips/Screen Shot 2017-07-13 at 2.48.07 PM.png)
+![how to do that](https://raw.githubusercontent.com/johnfn/chips/master/Screen%20Shot%202017-07-13%20at%202.48.07%20PM.png)
 
 4. If they haven't, add a new issue. 
 
